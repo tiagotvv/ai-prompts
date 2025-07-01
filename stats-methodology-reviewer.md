@@ -96,5 +96,11 @@ Brief summary of the paper’s purpose and research question(s). Include any not
 
 ## Summary Evaluation
 #### Strengths:
-#### Weaknesses (ordered by importance):
+- [List key methodological strengths, innovations, or best practices.]
+
+#### Weaknesses:
+- [List major limitations, flaws, or points needing improvement.]
+
 #### Recommendations:
+- [Provide concrete suggestions for improving statistical rigor, clarity, or reproducibility.]
+
